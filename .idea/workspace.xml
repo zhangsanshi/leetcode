@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a9f5c0-f9aa-4502-a751-40bc69a8735c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Add Two Numbers/addTwoNumbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String to Integer (atoi)/atoi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Excel Sheet Column Title/convertToTitle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Number of 1 Bits/hammingWeight1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Number of 1 Bits/hammingWeight2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Same Tree/isSameTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Longest Substring Without Repeating Characters/lengthOfLongestSubstring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maximum Depth of Binary Tree/maxDepth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleNumber/singleNumber1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/singleNumber/singleNumber2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sqrt/sqrt1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sqrt/sqrt2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sqrt/sqrt3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sqrt/sqrt4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Two Sum/twoSum.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,11 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twoSum.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="twoSum.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Two Sum/twoSum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7092511" vertical-offset="0" max-vertical-offset="681">
-              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+              <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.06167401" vertical-offset="0" max-vertical-offset="681">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -138,6 +134,7 @@
         <option value="$PROJECT_DIR$/Number of 1 Bits/hammingWeight.js" />
         <option value="$PROJECT_DIR$/Number of 1 Bits/hammingWeight2.js" />
         <option value="$PROJECT_DIR$/String to Integer (atoi)/atoi.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -300,14 +297,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="683">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Longest Substring Without Repeating Characters/lengthOfLongestSubstring.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27753305" vertical-offset="0" max-vertical-offset="681">
@@ -428,8 +417,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Two Sum/twoSum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7092511" vertical-offset="0" max-vertical-offset="681">
-          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06167401" vertical-offset="0" max-vertical-offset="681">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>
