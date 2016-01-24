@@ -13,7 +13,7 @@ var atoi = function(str) {
     if (number < INT_MIN) {
         return INT_MIN;
     }
-    if (number !== number){
+    if (number !== number) {
         number = 0;
     }
     return number;
